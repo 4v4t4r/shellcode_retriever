@@ -1,7 +1,10 @@
 ##Shellcode Retriever
+
 Downloads win32 shellcode from webservers and executes the shellcode without it touching disk (using the following method: http://www.debasish.in/2012_04_01_archive.html)
 
-Demo:
+Modified for threading by yours truly.
+
+Original demo video:
 
 http://www.youtube.com/watch?v=R15B2p-uWKY
 

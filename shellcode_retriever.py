@@ -5,7 +5,7 @@ A threaded version of @midnite_runr's shellcode_retriver script (https://github.
 
 This payload is available in Veil-Evasion (https://github.com/Veil-Framework/Veil-Evasion/blob/master/modules/payloads/python/shellcode_inject/download_inject.py)
 
-If injecting Metepreter shellcode, remember to specify 'thread' as the EXITFUNC in the handler
+If injecting Meterpreter shellcode, remember to specify 'thread' as the EXITFUNC in the handler
 '''
 
 from threading import Thread
